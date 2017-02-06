@@ -66,7 +66,7 @@ namespace predictR
                 Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 4.3927097, .02 }));//F220746
                 Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 7.0079713, .07 }));//E526357
                 Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 5.7613797, .16 }));//G243328
-                Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 14.592, .595 }));//j046558
+                Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 14.592, .495 }));//j046558
 
                 Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 2.8236294, .302 }));//1868136
                 Debug.Print("{0:0.00}", lra.Regression.Score(new double[] { 6.2766905, .5159 }));//1075341
